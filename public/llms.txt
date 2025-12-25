@@ -1,0 +1,56 @@
+# פלקור תוכנה — Generative Engine Optimization Map
+
+> A General business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-88b8d3dc.zappy5.app
+פתרונות תוכנה חכמים לניהול משלוחים והרכבות. מייעל את שרשרת האספקה שלך עם פלקור תוכנה.
+
+### שירותים
+https://-88b8d3dc.zappy5.app/services
+מערכות לוגיסטיקה חכמות לניהול משלוחים, תיאום הרכבות, ואופטימיזציה של שרשרת האספקה. פתרונות מותאמים אישית.
+
+### אודות
+https://-88b8d3dc.zappy5.app/about
+פלקור תוכנה מובילה את המהפכה בניהול לוגיסטיקה עם פתרונות חכמים לעסקים המספקים מוצרים גדולים. למדו על החזון והערכים שלנו.
+
+### צור קשר
+https://-88b8d3dc.zappy5.app/contact
+צרו קשר עם פלקור תוכנה לקבלת ייעוץ מקצועי והצעת מחיר מותאמת אישית למערכות ניהול לוגיסטיקה חכמות.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-88b8d3dc.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-88b8d3dc.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-88b8d3dc.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פלקור תוכנה
+פלקור תוכנה is a business in the General industry.
+
+## Target Audience
+
+## Industry
+General
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-88b8d3dc.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-88b8d3dc.zappy5.app/robots.txt
